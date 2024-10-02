@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://damc-dev.github.io',
                 'git_url': 'https://github.com/damc-dev/example-nbdev',
                 'lib_path': 'example_nbdev'},
-  'syms': {'example_nbdev.core': {'example_nbdev.core.foo': ('core.html#foo', 'example_nbdev/core.py')}}}
+  'syms': { 'example_nbdev.core': { 'example_nbdev.core.foo': ('core.html#foo', 'example_nbdev/core.py'),
+                                    'example_nbdev.core.say_hello': ('core.html#say_hello', 'example_nbdev/core.py')}}}
