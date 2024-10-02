@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "example-nbdev"
+  site-url: "https://damc-dev.github.io/example-nbdev"
+  description: "Testing out nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/damc-dev/example-nbdev"
